@@ -32,6 +32,17 @@ git clone https://github.com/abhiyadav1323/Bingo.git
 *	Pagination feature to restrict the number of urls on a single page to enhance user interface.
 *	Instant and live search feature to get results on the go.
 
+## Screenshots of the App
+
+#### Home Page
+![Alt text](/Screenshots/intranet%20search.png?raw=true)
+
+#### Web Search
+![Alt text](/Screenshots/intranet%20search%201.png?raw=true)
+
+#### Image Search
+![Alt text](/Screenshots/image%20search%201.png?raw=true)
+
 ## Licensing
 
 The MIT License (MIT)
